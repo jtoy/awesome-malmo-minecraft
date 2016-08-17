@@ -6,7 +6,7 @@ An awesome list made up of everything you need to know about the Malmo project. 
 
 The Malmo platform is a sophisticated AI experimentation platform built on top of Minecraft, and designed to support fundamental research in artificial intelligence.
 
-More info [here](http://tensorflow.org).
+More info [here](https://github.com/Microsoft/malmo).
 
 
 
