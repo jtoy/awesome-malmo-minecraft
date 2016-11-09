@@ -48,7 +48,7 @@ More info [here](https://github.com/Microsoft/malmo).
 <a name="github-community" />
 ## Community
 * [Reddit](https://www.reddit.com/r/Malmocraft/)
-
+* [Gitter](https://gitter.im/Microsoft/malmo)
 
 <a name="credits" />
 ## Credits
