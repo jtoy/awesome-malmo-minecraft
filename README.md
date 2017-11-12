@@ -22,12 +22,10 @@ More info [here](https://github.com/Microsoft/malmo).
 <!-- /MarkdownTOC -->
 
 
-<a name="github-tutorials" />
 ## Tutorials  
 * [Malmo Tutorial](https://www.scribd.com/document/317786923/Malmo-Tutorial) - A tutorial on getting started with the Malmo platform.  
 
 
-<a name="github-videos" />
 ## Videos  
 * [Project Malmo – A Platform for Fundamental AI Research](https://www.youtube.com/watch?v=399qJUBRA0o) - An explanation along with a demonstration showing the capabilities of Project Malmo.  
 * [Project Malmo - "Cliff Walking" demonstration](https://www.youtube.com/watch?v=9XRL6d-yxp4) - The "Cliff Walking" example using Q-learning simply running the Microsoft's sample code.  
@@ -35,22 +33,18 @@ More info [here](https://github.com/Microsoft/malmo).
 * [Evolution of Malmo (Gource Visualization)](https://www.youtube.com/watch?v=Lm6kkc9xDyk) - Gource visualization of Malmo.  
 
 
-<a name="github-models" />
 ## Models/Projects  
 
 
-<a name="github-blogs" />
 ## Blogs  
 * [Project Malmo - Getting started](https://www.microsoft.com/en-us/research/project/project-malmo/)  
 * [Project Malmo: Using Minecraft to build more intelligent technology](http://blogs.microsoft.com/next/2016/03/13/project-malmo-using-minecraft-build-intelligent-technology/#sm.00nyvfqa16bjczy10li1tdfw24r81)  
 
 
-<a name="github-community" />
 ## Community  
 * [Reddit](https://www.reddit.com/r/Malmocraft/)  
 
 
-<a name="credits" />
 ## Credits  
 
 
